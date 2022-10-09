@@ -1,7 +1,9 @@
-package com.example.completecorejava;
+package com.tutorial.basics;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import com.tutorial.domain.Hello;
 
 @SpringBootApplication
 public class CompleteCoreJavaApplication {
